@@ -23,7 +23,7 @@
   - <b>Used Python & T-SQL to accurately identify matching ownership records within the CAMA database. </b>
   
 
-<h2>📈 Dashboards 📊</h2>
+<h2>📈 Dashboards Built 📊</h2>
 
 - <b>Microsoft Excel Dashboards </b>
   - [Personal Finance CreditCards Dashboard]
@@ -31,7 +31,7 @@
   - [Database Size Tracking Dashboard](https://github.com/Deltron2020/DatabaseSizeTrackingDashboard/tree/main)
   - [QR Code Scans Dashboard]
     
-<h2> 🚦 Frequently Used Scripts 📜 </h2>
+<h2>🚦 Frequently Used Scripts 📜</h2>
 
   - [Exception Handling with T-SQL (SSMS)](https://github.com/Deltron2020/ExceptionHandling)
   - [Exporting Data To CSV with T-SQL (SSMS)](https://github.com/Deltron2020/ExportDataToCsv)
