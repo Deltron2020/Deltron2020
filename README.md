@@ -35,7 +35,10 @@
 
 <h2>📑 Popular Medium Blog Posts 📖</h2>
 
-- test123
+- [Personal Finance Dashboard Series](https://medium.com/@ttrice1/my-first-automated-dashboard-the-overview-9ea7b4bb592b)
+- [Window Functions](https://medium.com/@ttrice1/sql-window-functions-put-them-to-work-8b211315d8eb)
+- [Exporting Data from SSMS](https://medium.com/@ttrice1/exporting-reports-from-ssms-the-easy-way-with-headers-38a17f4679c6)
+- [Cursors in SSMS](https://medium.com/@ttrice1/beware-of-the-cursor-object-or-not-d49309e2c835)
 
 <h2>🌐 Websites Managed 🖥</h2>
 
