@@ -26,7 +26,11 @@
 <h2>📈 SQL Scripts & Dashboards 📊</h2>
 
 - <b>Microsoft Excel Dashboards </b>
-  - test456
+  - [Personal Finance CreditCards Dashboard]
+  - [CAMA Transfer Entry Dashboard]
+  - [Database Size Tracking Dashboard]
+  - [QR Code Scans Dashboard]
+    
 - <b>Frequently Used Scripts </b>
   - [Exception Handling with T-SQL (SSMS)](https://github.com/Deltron2020/ExceptionHandling)
   - [Exporting Data To CSV with T-SQL (SSMS)](https://github.com/Deltron2020/ExportDataToCsv)
