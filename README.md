@@ -31,7 +31,7 @@
   - [Database Size Tracking Dashboard](https://github.com/Deltron2020/DatabaseSizeTrackingDashboard/tree/main)
   - [QR Code Scans Dashboard]
     
-<h2> Frequently Used Scripts </h2>
+<h2> 🚦 Frequently Used Scripts 📜 </h2>
 
   - [Exception Handling with T-SQL (SSMS)](https://github.com/Deltron2020/ExceptionHandling)
   - [Exporting Data To CSV with T-SQL (SSMS)](https://github.com/Deltron2020/ExportDataToCsv)
