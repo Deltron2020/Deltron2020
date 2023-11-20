@@ -31,7 +31,7 @@
   - [Exception Handling with T-SQL (SSMS)](https://github.com/Deltron2020/ExceptionHandling)
   - [Exporting Data To CSV with T-SQL (SSMS)](https://github.com/Deltron2020/ExportDataToCsv)
   - [Checking If File Exists with T-SQL (SSMS)](https://github.com/Deltron2020/doesFileExist)
-
+  - [Converting CSV file to an Excel Table (SSMS & PowerShell)](https://github.com/Deltron2020/CSVtoXLSXwTable)
 
 <h2>📑 Popular Medium Blog Posts 📖</h2>
 
