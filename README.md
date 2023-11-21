@@ -26,7 +26,7 @@
 <h2>📈 Dashboards Built 📊</h2>
 
 - <b>Microsoft Excel Dashboards </b>
-  - [Personal Finance CreditCards Dashboard]
+  - [Personal Finance CreditCards Dashboard](https://i.imgur.com/axCKzuv.png)
   - [CAMA Transfer Entry Analysis Dashboard](https://github.com/Deltron2020/TransferEntryAnalysisDashboard)
   - [Database Size Tracking Dashboard](https://github.com/Deltron2020/DatabaseSizeTrackingDashboard/tree/main)
   - [2022 QR Code Scans Dashboard](https://i.imgur.com/gPgoJqG.png)
