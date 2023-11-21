@@ -1,8 +1,8 @@
-<h1>Tyler Trice 🙋‍♂️
+<h1>Tyler Trice 🙋‍♂️ 👨‍💻
   <br/>
   <a href="https://github.com/deltron2020">Systems Analyst</a>, 
   <a href="">Digital Problem Solver</a>, & 
-  <a href="">Writer</a> 👨‍💻
+  <a href="">Writer</a>
 </h1>
   
 
