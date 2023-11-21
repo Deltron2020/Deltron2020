@@ -27,7 +27,7 @@
 
 - <b>Microsoft Excel Dashboards </b>
   - [Personal Finance CreditCards Dashboard]
-  - [CAMA Transfer Entry Dashboard](https://github.com/Deltron2020/TransferEntryAnalysisDashboard)
+  - [CAMA Transfer Entry Analysis Dashboard](https://github.com/Deltron2020/TransferEntryAnalysisDashboard)
   - [Database Size Tracking Dashboard](https://github.com/Deltron2020/DatabaseSizeTrackingDashboard/tree/main)
   - [QR Code Scans Dashboard]
     
