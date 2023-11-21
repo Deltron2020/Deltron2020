@@ -29,7 +29,7 @@
   - [Personal Finance CreditCards Dashboard]
   - [CAMA Transfer Entry Analysis Dashboard](https://github.com/Deltron2020/TransferEntryAnalysisDashboard)
   - [Database Size Tracking Dashboard](https://github.com/Deltron2020/DatabaseSizeTrackingDashboard/tree/main)
-  - [QR Code Scans Dashboard]
+  - [2022 QR Code Scans Dashboard](https://i.imgur.com/gPgoJqG.png)
     
 <h2>🚦 Frequently Used Scripts 📜</h2>
 
