@@ -23,7 +23,7 @@
   - <b>Used Python & T-SQL to accurately identify matching ownership records within the CAMA database. </b>
 
 - <b>[Website PDF Permit Reports Creation & FTP Process]()</b>
-  - <b>Used Python's Selenium to Download Thousands of PDF Files from a Webpage. </b>
+  - <b>Used Python's Selenium to Download Thousands of PDF Files that are then Renamed & FTP'd. </b>
 
 <h2>📈 Dashboards Built 📊</h2>
 
