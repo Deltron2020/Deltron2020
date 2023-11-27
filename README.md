@@ -23,7 +23,7 @@
   - <b>Used Python & T-SQL to accurately identify matching ownership records within the CAMA database. </b>
 
 - <b>[Website PDF Permit Reports Creation & FTP Process]()</b>
-  - <b>Used Python's Selenium to download thousands of PDF files that are then renamed & FTP'd where they are regularly updated and easily visible to the public. </b>
+  - <b>Used Python's Selenium to download thousands of PDF files that are then renamed & FTP'd where they are easily visible to the public. </b>
 
 - <b>[Recreating the Florida Department of Revenue's Edit Checks (SDF, NAP, NAL)]()</b>
   - <b>Used T-SQL to recreate the DoR's data verification & validation reports on yearly Tax Roll & Assessment Data. </b>
