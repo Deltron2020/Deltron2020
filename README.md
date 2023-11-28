@@ -25,7 +25,7 @@
 - <b>[Website PDF Permit Reports Creation & FTP Process](https://github.com/Deltron2020/PdfPermitReports/tree/main)</b>
   - <b>Used Python's Selenium to download thousands of PDF files that are then renamed & FTP'd to a file server where the reports are made easily accessible to the public. </b>
 
-- <b>[Recreating the Florida Department of Revenue's Edit Checks (SDF, NAP, NAL)]()</b>
+- <b>[Recreating the Florida Department of Revenue's Edit Checks (SDF, NAP, NAL)](https://github.com/Deltron2020/DorEditChecks)</b>
   - <b>Used T-SQL to recreate the DoR's data verification & validation reports on yearly CAMA Tax Roll & Assessment Data. </b>
 
 <h2>📈 Dashboards Built 📊</h2>
