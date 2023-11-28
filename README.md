@@ -20,7 +20,7 @@
   - <b>Used Python & T-SQL to automate a manual data entry process saving time, reducing workload, and preventing errors.</b>
   
 - <b>[Monthly Report Identifying Matching CAMA Ownership from an External Data Source](https://github.com/Deltron2020/ChangeOfAddressReport)</b>
-  - <b>Used Python & T-SQL to accurately identify matching ownership records within the CAMA database. </b>
+  - <b>Used Python's Pandas to extract data and then T-SQL to accurately identify matching ownership records within the CAMA database. </b>
 
 - <b>[Website PDF Permit Reports Creation & FTP Process](https://github.com/Deltron2020/PdfPermitReports/tree/main)</b>
   - <b>Used Python's Selenium to download thousands of PDF files that are then renamed & FTP'd to a file server where the reports are made easily accessible to the public. </b>
