@@ -1,18 +1,26 @@
-<h1>Tyler Trice 🙋‍♂️ 👨‍💻
-  <br/>
-  <a href="https://github.com/deltron2020">Systems Analyst</a>, 
-  <a href="">Digital Problem Solver</a>, & 
-  <a href="">Writer</a>
-</h1>
-  
+<h1>Tyler Trice 🙋‍♂️ 👨‍💻🏄‍♂️</h1>
+<ul>
+  <li>IT Manager Trainee, 
+  Digital Problem Solver, 
+  Tech Enthusiast, 
+  Reader, & 
+  Writer</li>
+</ul>
 
-<h2>🧰 Top Languages & Tools 🛠</h2> 
+<h2>🧰 Top Languages & Tools ⚒</h2> 
+<ul>
+  <li> SQL 🛢</li>
+  <li> SSMS </li>
+  <li> Python 🐍</li>
+  <li> PowerShell </li>
+  <li> Microsoft Excel </li>
+</ul>
 
-- <b>SQL 🛢</b>
-- <b> SSMS </b>
-- <b> Python 🐍</b>
-- <b> PowerShell </b>
-- <b> Microsoft Excel </b>
+<h2>🗜 Web Apps Built 🛠</h2>
+<ul>
+  <li> Customer Tracking Ticketing System </li>
+  <li> StatChamp.com - NBA Player Stats & Anlysis </li>
+</ul>
 
 <h2>⁉ Problems Solved & Processes Automated ⚙</h2>
 
@@ -21,9 +29,6 @@
   
 - <b>[Monthly Report Identifying Matching CAMA Ownership from an External Data Source](https://github.com/Deltron2020/ChangeOfAddressReport)</b>
   - <b>Used Python's Pandas to extract data and then T-SQL to accurately identify matching ownership records within the CAMA database. </b>
-
-- <b>[Website PDF Permit Reports Creation & FTP Process](https://github.com/Deltron2020/PdfPermitReports)</b>
-  - <b>Used Python's Selenium to download thousands of PDF files that are then renamed & FTP'd to a file server where the reports are made easily accessible to the public. </b>
 
 - <b>[Recreating the Florida Department of Revenue's Edit Checks (SDF, NAP, NAL)](https://github.com/Deltron2020/DorEditChecks)</b>
   - <b>Used T-SQL to recreate the DoR's data verification & validation reports on yearly CAMA Tax Roll & Assessment Data. </b>
