@@ -19,7 +19,7 @@
 <h2>🗜 Web Apps Built 🛠</h2>
 <ul>
   <li> Customer Tracking Ticketing System </li>
-  <li> StatChamp.com - NBA Player Stats & Anlysis </li>
+  <li> StatChamp.com - NBA Player Stats & Analysis </li>
 </ul>
 
 <h2>⁉ Problems Solved & Processes Automated ⚙</h2>
